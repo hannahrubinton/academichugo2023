@@ -3,11 +3,11 @@
 
 title: "Inequality in the Welfare Costs of Disinflation"
 authors: ["Ben Pugsley","Hannah Rubinton"]
-date: 2023-04
+date: 2023-04-11T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-04
+publishDate: 2023-04-11T20:18:55-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

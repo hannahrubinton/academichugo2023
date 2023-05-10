@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Role of Establishment Size in the City Size Premium in Spain (R&R JUE Insights)"
+title: "JUE Insight: The Role of Establishment Size in the City Size Premium in Spain (forthcoming, JUE: Insights)"
 authors: ["Charly Porcher","Hannah Rubinton", "Clara Santamaria"]
-date: 2020-09-10T20:18:55-04:00
+date: 2023-04-11T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-10T20:18:55-04:00
+publishDate: 2023-04-11T20:18:55-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ abstract: "Both large establishments and large cities are known to offer workers
 summary: ""
 
 tags: []
-categories: ["workingpaper"]
+categories: ["publications"]
 featured: false
 
 # Custom links (optional).
