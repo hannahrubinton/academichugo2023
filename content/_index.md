@@ -16,8 +16,7 @@ sections:
     content:
       title: Publications
       filters:
-        publication_type: ["2"]
-        categories: ["publications"]
+        publication_types: ["2"]
         folders:
           - publication
         exclude_featured: true
