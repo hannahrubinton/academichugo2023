@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Inequality in the Welfare Costs of Disinflation"
+title: "The Uneven Welfare Costs of the Volcker Disinflation"
 authors: ["Ben Pugsley","Hannah Rubinton"]
 date: 2023-04-11T20:18:55-04:00
 doi: ""
