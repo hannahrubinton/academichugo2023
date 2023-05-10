@@ -75,7 +75,7 @@ minify:
   _merge: deep
 cascade:
   - _target:
-      path: /publication/**
+      path: /publications/**
     share: false
 cascade:
   - _target:
