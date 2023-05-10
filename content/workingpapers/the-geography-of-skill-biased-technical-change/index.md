@@ -26,7 +26,7 @@ abstract: "This paper shows that the growing regional disparities in the U.S. si
 summary: ""
 
 tags: [Job Market Paper]
-categories: ["workingpaper"]
+categories: ["publications"]
 featured: false
 
 # Custom links (optional).
