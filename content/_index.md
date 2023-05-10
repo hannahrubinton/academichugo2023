@@ -16,7 +16,7 @@ sections:
     content:
       title: Publications
       filters:
-        publication_types: ["2"]
+        tags: ["publications"]
         folders:
           - publication
         exclude_featured: true
@@ -28,7 +28,7 @@ sections:
     content:
       title: Working Papers
       filters: 
-        publication_types: ["3"]
+        tags: ["workingpaper"]
         folders:
           - publication
         exclude_featured: true

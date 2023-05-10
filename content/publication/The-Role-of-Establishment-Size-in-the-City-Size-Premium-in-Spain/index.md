@@ -26,7 +26,7 @@ abstract: "Both large establishments and large cities are known to offer workers
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["publications"]
 categories: ["publications"]
 featured: false
 
