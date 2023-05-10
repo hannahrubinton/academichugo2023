@@ -22,9 +22,9 @@ bio: I am an Economist at the Federal Reserve Bank of St. Louis with interests i
 
 #interests:
 
-#education:
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts I
+education:
+  - course: PhD in Economics 
+    institution: Princeton University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,9 +54,9 @@ email: "hannah.rubinton@stls.frb.org"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. 
