@@ -29,8 +29,7 @@ sections:
     content:
       title: Working Papers
       filters: 
-        publication_type: ["3"]
-        categories: ["workingpapers"]
+        publication_types: ["3"]
         folders:
           - publication
         exclude_featured: true
