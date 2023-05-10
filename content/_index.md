@@ -17,6 +17,7 @@ sections:
       title: Publications
       filters:
         publication_types: ["2"]
+        categories: ["publications"]
         folders:
           - publication
         exclude_featured: true
@@ -29,8 +30,9 @@ sections:
       title: Working Papers
       filters: 
         publication_types: ["3"]
+        categories: ["workingpapers"]
         folders:
-          - workingpapers
+          - publication
         exclude_featured: true
     design:
       columns: '2'
