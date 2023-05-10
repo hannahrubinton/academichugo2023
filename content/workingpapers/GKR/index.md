@@ -3,11 +3,11 @@
 
 title: "The Impact of Racial Segregation on College Attainment in Spatial Equilibrium"
 authors: ["Victoria Gregory","Julian Kozlowski","Hannah Rubinton"]
-date: 2020-09-10T20:18:55-04:00
+date: 2022-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-10T20:18:55-04:00
+publishDate: 2022-10
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

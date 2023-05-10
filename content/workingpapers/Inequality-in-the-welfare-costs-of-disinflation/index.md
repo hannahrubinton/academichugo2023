@@ -3,11 +3,11 @@
 
 title: "Inequality in the Welfare Costs of Disinflation"
 authors: ["Ben Pugsley","Hannah Rubinton"]
-date: 2019-07-10T20:17:34-04:00
+date: 2023-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-07-10T20:17:34-04:00
+publishDate: 2023-04
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publishDate: 2019-07-10T20:17:34-04:00
 publication: ""
 publication_short: ""
 
-abstract: "We use an incomplete markets economy to quantify the distribution of welfare gains and losses of the US “Volcker” disinflation. In the long run households prefer low inflation, but disinflation requires a transition period and a redistribution from net nominal borrowers to net nominal savers. Welfare costs may be significant for households with nominal liabilities. When calibrated to match the micro and macro moments of the early 1980s high-inflation environment and the actual changes in the nominal interest rate and inflation during the Volcker disinflation, nearly 60 percent of all households would prefer to avoid the disinflation. This share depends negatively on the liquidity value of money, positively on the average duration of nominal borrowing, and positively on the short-run increase in the real interest rate."
+abstract: "We use a HANK model to quantify the distribution of welfare gains and losses of the US Volcker disinflation. In the long run households prefer low inflation, but the Volcker disinflation is characterized by sharp increases in the real interest rate and unemployment, as well as a redistribution from nominal borrowers to nominal savers. We calibrate the model to match the early 1980s high-inflation environment and examine the actual changes in the nominal interest rate and inflation over the Volcker disinflation. While aggregate welfare gains are positive, the effects are skewed and half of households prefer to avoid the disinflation."
 
 
 
