@@ -75,5 +75,9 @@ minify:
   _merge: deep
 cascade:
   - _target:
-      path: /content/**
+      path: /publication/**
+    share: false
+cascade:
+  - _target:
+      path: /workingpapers/**
     share: false
