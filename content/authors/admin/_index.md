@@ -59,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. 
+I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. I received my PhD in economics from Princeton University in 2020.
