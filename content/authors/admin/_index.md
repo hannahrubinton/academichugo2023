@@ -18,13 +18,13 @@ organizations:
   url: "https://www.stlouisfed.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. 
+bio: I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. I received my PhD in economics from Princeton University in 2020.
 
 #interests:
 
-education:
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts I
+#education:
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts I
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
