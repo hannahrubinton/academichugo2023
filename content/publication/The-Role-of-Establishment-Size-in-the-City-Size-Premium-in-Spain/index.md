@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "JUE Insight: The Role of Establishment Size in the City Size Premium in Spain (forthcoming, JUE: Insights)"
+title: "JUE Insight: The Role of Establishment Size in the City Size Premium in Spain"
 authors: ["Charly Porcher","Hannah Rubinton", "Clara Santamaria"]
 date: 2023-04-11T20:18:55-04:00
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 2023-04-11T20:18:55-04:00
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "JUE: Insights"
+publication: "JUE: Insights, forthcoming"
 publication_short: ""
 
 
