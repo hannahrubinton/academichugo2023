@@ -60,3 +60,5 @@ user_groups:
 ---
 
 I am an Economist at the Federal Reserve Bank of St. Louis with interests in macroeconomics and economic geography. I received my PhD in economics from Princeton University in 2020.
+
+If you notice me shaking, it's because I have an [essential tremor](https://en.wikipedia.org/wiki/Essential_tremor). Feel free to ask me about it. 
