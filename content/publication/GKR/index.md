@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 
 
-abstract: "We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily---the preferences of individuals over the racial composition of their neighborhood. We find that these two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area. Counterfactual exercises show that the wage gap and homophily explain 7 and 18 percentage points of the college gap, respectively. A policy of equalizing school funding across neighborhoods reduces the college gap by almost 10 percentage points and generates large welfare gains."
+abstract: "We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers.  The model incorporates race in three ways: (i) a Black-White wage gap, (ii) an amenity externality---households care about the racial composition of their neighbors---and (iii) an additional barrier to moving for Black households. These forces quantitatively account for all of the racial segregation and 80\% of the Black-White gap in college attainment in the data for the St. Louis metro area. Counterfactual exercises show that all three forces are quantitatively important. The presence of spillovers and externalities generates multiple equilibria. Although St. Louis is in the segregated equilibrium, there also exists an integrated equilibrium with a lower college gap, and we analyze a transition path between the two."
 
 
 # Summary. An optional shortened abstract.
