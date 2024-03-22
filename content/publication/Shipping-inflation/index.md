@@ -44,7 +44,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://doi.org/10.20955/r.105.89-107"
 url_video:
 
 # Featured image
