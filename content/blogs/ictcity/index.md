@@ -4,7 +4,7 @@
 title: "Information and Communications Technology Spending and City Size"
 authors: []
 date: 2021-04-26T20:18:55-04:00
-doi: ""
+doi: "https://doi.org/10.20955/es.2021.7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-07T20:18:55-04:00
