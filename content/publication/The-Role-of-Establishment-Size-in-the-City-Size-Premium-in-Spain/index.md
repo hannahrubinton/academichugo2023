@@ -3,11 +3,11 @@
 
 title: "JUE Insight: The Role of Establishment Size in the City Size Premium in Spain"
 authors: ["Charly Porcher","Hannah Rubinton", "Clara Santamaria"]
-date: 2023-04-11T20:18:55-04:00
-doi: ""
+date: 2023-07-01T20:18:55-04:00
+doi: "https://doi.org/10.1016/j.jue.2023.103556"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-04-11T20:18:55-04:00
+publishDate: 2023-07-01T20:18:55-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
