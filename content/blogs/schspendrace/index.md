@@ -4,7 +4,7 @@
 title: "School District Expenditures and Race"
 authors: []
 date: 2022-02-16T20:18:55-04:00
-doi: "https://doi.org/10.20955/es.2022.3"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-02-16T20:18:55-04:00

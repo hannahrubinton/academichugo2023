@@ -4,7 +4,7 @@
 title: "Inflation and Shipping Costs"
 authors: []
 date: 2022-03-18T20:18:55-04:00
-doi: "https://doi.org/10.20955/es.2022.5"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-15T20:18:55-04:00
