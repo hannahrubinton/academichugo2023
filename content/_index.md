@@ -40,7 +40,7 @@ sections:
     content:
       title: Blog Posts 
       filters: 
-        publication_type: "0"
+        publication_type: ""
         folders:
           - blogs
         exclude_featured: true
