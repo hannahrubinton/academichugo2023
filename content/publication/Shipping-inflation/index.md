@@ -33,8 +33,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+# - name: Published 
+#   url: "https://doi.org/10.20955/r.105.89-107"
 #   icon_pack: fab
 #   icon: twitter
 
@@ -44,7 +44,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://doi.org/10.20955/r.105.89-107"
+url_source: 
 url_video:
 
 # Featured image
