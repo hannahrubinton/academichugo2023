@@ -4,7 +4,7 @@
 title: "Tracking Families That Cross the Income Threshold for Food Stamps"
 authors: []
 date: 2022-09-20T20:18:55-04:00
-doi: "https://www.stlouisfed.org/on-the-economy/2022/sep/tracking-families-cross-income-threshold-food-stamps"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-20T20:18:55-04:00
@@ -33,9 +33,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: URL
+  url: [https://twitter.com](https://www.stlouisfed.org/on-the-economy/2022/sep/tracking-families-cross-income-threshold-food-stamps)
 #   icon_pack: fab
 #   icon: twitter
 
