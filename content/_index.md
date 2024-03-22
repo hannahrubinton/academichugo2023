@@ -32,6 +32,15 @@ sections:
         folders:
           - publication
         exclude_featured: true
+   - block: collection
+    id: blogposts
+    content:
+      title: Blog Posts 
+      filters: 
+        publication_type: "0"
+        folders:
+          - blogs
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
