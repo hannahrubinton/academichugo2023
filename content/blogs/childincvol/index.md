@@ -4,7 +4,7 @@
 title: "Childhood Income Volatility"
 authors: []
 date: 2021-05-07T20:18:55-04:00
-doi: "https://doi.org/10.20955/es.2021.8"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-07T20:18:55-04:00
@@ -38,6 +38,9 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: URL
+  url: https://doi.org/10.20955/es.2021.8
 
 url_pdf: 
 url_code:

@@ -4,7 +4,7 @@
 title: "Where Are Labor Markets the Tightest? A Tale of the 100 Largest US Cities"
 authors: []
 date: 2023-12-15T20:18:55-04:00
-doi: "https://doi.org/10.20955/es.2023.25"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-15T20:18:55-04:00
@@ -38,6 +38,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: URL
+  url: https://doi.org/10.20955/es.2023.25
 
 url_pdf: 
 url_code:

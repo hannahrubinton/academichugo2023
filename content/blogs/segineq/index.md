@@ -4,7 +4,7 @@
 title: "City Segregation and the College Degree Gap"
 authors: []
 date: 2022-06-23T20:18:55-04:00
-doi: "https://doi.org/10.20955/es.2022.17"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-15T20:18:55-04:00
@@ -38,6 +38,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: URL
+  url: https://doi.org/10.20955/es.2022.17
 
 url_pdf: 
 url_code:

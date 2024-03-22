@@ -39,6 +39,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: URL
+  url: https://doi.org/10.20955/es.2022.5
+
 url_pdf: 
 url_code:
 url_dataset:

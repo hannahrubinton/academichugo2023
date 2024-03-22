@@ -4,7 +4,7 @@
 title: "The Labor Effects of Work from Home on Workers with a Disability"
 authors: []
 date: 2024-02-27T20:18:55-04:00
-doi: "https://www.stlouisfed.org/on-the-economy/2024/feb/labor-effects-work-from-home-workers-disability"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-02-27T20:18:55-04:00
@@ -38,6 +38,9 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: URL
+  url: https://www.stlouisfed.org/on-the-economy/2024/feb/labor-effects-work-from-home-workers-disability
 
 url_pdf: 
 url_code:

@@ -4,7 +4,7 @@
 title: "Do Congested Ports Cause Higher Shipping Costs?"
 authors: []
 date: 2022-04-19T20:18:55-04:00
-doi: "https://www.stlouisfed.org/on-the-economy/2022/apr/do-congested-ports-cause-higher-shipping-costs"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-04-19T20:18:55-04:00
@@ -38,6 +38,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: URL
+  url: https://www.stlouisfed.org/on-the-economy/2022/apr/do-congested-ports-cause-higher-shipping-costs
 
 url_pdf: 
 url_code:

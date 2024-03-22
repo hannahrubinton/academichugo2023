@@ -4,7 +4,7 @@
 title: "SNAP Benefits and the Volatility of Food Spending"
 authors: []
 date: 2021-10-21T20:18:55-04:00
-doi: "https://www.stlouisfed.org/on-the-economy/2021/october/snap-benefits-volatility-food-spending"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-21T20:18:55-04:00
@@ -38,6 +38,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: URL
+  url: https://www.stlouisfed.org/on-the-economy/2021/october/snap-benefits-volatility-food-spending
 
 url_pdf: 
 url_code:
