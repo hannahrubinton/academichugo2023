@@ -32,7 +32,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-   - block: collection
+  - block: collection
     id: blogposts
     content:
       title: Blog Posts 
