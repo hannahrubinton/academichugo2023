@@ -16,7 +16,7 @@ publishDate: 2023-07-01T20:18:55-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "JUE: Insights, forthcoming"
+publication: "JUE: Insights"
 publication_short: ""
 
 
