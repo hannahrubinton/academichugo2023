@@ -3,11 +3,11 @@
 
 title: "The Impact of Work from Home on Interstate Migration in the U.S."
 authors: ["Alex Bick", "Adam Blandin", "Karel Mertens", "Hannah Rubinton"]
-date: 2024-06-77T20:18:55-04:00
+date: 2024-06-17T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-05-07T20:18:55-04:00
+publishDate: 2024-06-17T20:18:55-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
