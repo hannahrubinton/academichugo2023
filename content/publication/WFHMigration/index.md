@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Impact of Racial Segregation on College Attainment in Spatial Equilibrium"
+title: "Work from Home and Interstate Migration"
 authors: ["Alex Bick","Adam Blandin","Karel Mertens","Hannah Rubinton"]
 date: 2023-07-12T20:18:55-04:00
 doi: ""
