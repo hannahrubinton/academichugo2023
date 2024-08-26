@@ -3,11 +3,11 @@
 
 title: "Work from Home and Interstate Migration"
 authors: ["Alex Bick","Adam Blandin","Karel Mertens","Hannah Rubinton"]
-date: 2023-07-12T20:18:55-04:00
+date: 2024-06-16T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-07-12T20:18:55-04:00
+publishDate: 2024-06-12T20:18:55-04:00
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
