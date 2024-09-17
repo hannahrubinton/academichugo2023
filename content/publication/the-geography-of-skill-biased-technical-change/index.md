@@ -3,7 +3,7 @@
 
 title: "The Geography of Business Dynamism and Skill-Biased Technical Change (R&R Review of Economic Studies)"
 authors: ["Hannah Rubinton"]
-date: 2022-10-11T20:18:55-04:00
+date: 2024-09-13T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/RubintonJMP.pdf"
+url_pdf: "https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-020.pdf"
 url_code:
 url_dataset:
 url_poster:
