@@ -3,7 +3,7 @@
 
 title: "The Impact of Racial Segregation on College Attainment in Spatial Equilibrium"
 authors: ["Victoria Gregory","Julian Kozlowski","Hannah Rubinton"]
-date: 2023-07-12T20:18:55-04:00
+date: 2024-11-27T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 
 
-abstract: "We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers.  The model incorporates race in three ways: (i) a Black-White wage gap, (ii) an amenity externality---households care about the racial composition of their neighbors---and (iii) an additional barrier to moving for Black households. These forces quantitatively account for all of the racial segregation and 80 percent of the Black-White gap in college attainment in the data for the St. Louis metro area. Counterfactual exercises show that all three forces are quantitatively important. The presence of spillovers and externalities generates multiple equilibria. Although St. Louis is in the segregated equilibrium, there also exists an integrated equilibrium with a lower college gap, and we analyze a transition path between the two."
+abstract: "This paper seeks to understand the forces that maintain racial segregation and the Black-White gap in college attainment, as well as their interactions with place-based policy interventions. We incorporate race into an overlapping-generations spatial-equilibrium model with parental investment and neighborhood spillovers. Race matters due to: (i) a Black-White wage gap, (ii) amenity externalities---households care about their neighborhood's racial composition---and (iii) additional barriers to moving for Black households. We find that these forces account for 71\% of the racial segregation and 64\% of the Black-White gap in college attainment for the St. Louis metro area. The presence of spillovers and externalities generates multiple equilibria. Although St. Louis is in a segregated equilibrium, there also exists an integrated equilibrium with a lower college gap. We compare various place-based policy interventions to evaluate their effectiveness in reducing segregation and destabilizing the segregated equilibrium."
 
 
 # Summary. An optional shortened abstract.
