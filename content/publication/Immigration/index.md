@@ -4,7 +4,7 @@
 title: "The Effect of COVID-19 Immigration Restrictions on  Post-Pandemic Labor Market Tightness"
 authors: ["Maggie Isaacson", "Cassie Marks", "Lowell Ricketts","Hannah Rubinton"]
 date: 2024-08-01T20:18:55-04:00
-doi: ""
+doi: "https://doi.org/10.20955/r.2024.11"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-08-01T20:18:55-04:00
