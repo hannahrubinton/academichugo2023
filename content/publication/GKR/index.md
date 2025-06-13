@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Impact of Racial Segregation on College Attainment in Spatial Equilibrium"
+title: "The Impact of Racial Segregation on College Attainment in Spatial Equilibrium (reject and resubmit, Review of Economic Studies)"
 authors: ["Victoria Gregory","Julian Kozlowski","Hannah Rubinton"]
 date: 2024-11-27T20:18:55-04:00
 doi: ""

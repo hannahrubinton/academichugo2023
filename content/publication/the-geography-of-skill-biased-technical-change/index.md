@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Geography of Business Dynamism and Skill-Biased Technical Change (Conditionally accepted, Review of Economic Studies)"
+title: "The Geography of Business Dynamism and Skill-Biased Technical Change (Accepted, Review of Economic Studies)"
 authors: ["Hannah Rubinton"]
 date: 2024-09-13T20:18:55-04:00
 doi: ""
