@@ -3,11 +3,11 @@
 
 title: "The Geography of Business Dynamism and Skill-Biased Technical Change (Accepted, Review of Economic Studies)"
 authors: ["Hannah Rubinton"]
-date: 2024-09-13T20:18:55-04:00
+date: 2025-08-15T20:18:55-04:00
 doi: "https://doi-org.homer.idm.oclc.org/10.1093/restud/rdaf063"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-10-11T20:18:55-04:00
+publishDate: 2025-08-15T20:18:55-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
