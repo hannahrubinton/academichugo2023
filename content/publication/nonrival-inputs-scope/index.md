@@ -3,11 +3,11 @@
 
 title: "The Adoption of Non-Rival Inputs and Firm Scope"
 authors: ["Xian Jiang","Hannah Rubinton"]
-date: 2024-03-21T20:18:55-04:00
+date: 2025-09-01T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-21T20:18:55-04:00
+publishDate: 2025-09-01T20:18:55-04:00
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 
 
-abstract: "Custom software is distinct from other types of capital in that it is non-rival---once a firm makes an investment in custom software, it can be used simultaneously across its many establishments. Using confidential US Census data, we document that while firms with more establishments are more likely to invest in custom software, they spend less on it as a share of total capital expenditure. We explain these empirical patterns by developing a model that incorporates the non-rivalry of custom software. In the model, firms choose whether to adopt custom software, the intensity of their investment, and their scope, balancing the cost of managing multiple establishments with the increasing returns to scope from the non-rivalrous custom software investment. Using the calibrated model, we assess the extent to which the decline in the rental rate of custom software over the past 40 years can account for a number of macroeconomic trends, including increases in firm scope and concentration."
+abstract: "Custom software is distinct from other types of capital because it is non-rival---once a firm invests in it, the software can be used simultaneously across its many establishments. Using confidential U.S. Census data, we document that while firms with more establishments are more likely to invest in custom software, they spend less on it as a share of total capital expenditures. We explain these empirical patterns by developing a model that incorporates the non-rivalry of software and the firm's choice of scope. Firms choose whether to adopt custom software, the intensity of their investment, and their scope, balancing the costs of managing multiple establishments against the increasing returns to scope from non-rival software. Calibrating the model with microdata, we show that improvements in custom software production account for a significant share of rising concentration and aggregate productivity growth. Abstracting from adoption and scope margins substantially understates these effects."
 
 
 # Summary. An optional shortened abstract.
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/JiangRubinton_March2024.pdf"
+url_pdf: "files/JiangRubinton_Sept2025.pdf"
 url_code:
 url_dataset:
 url_poster:
