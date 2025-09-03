@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Geography of Business Dynamism and Skill-Biased Technical Change (Accepted, Review of Economic Studies)"
+title: "The Geography of Business Dynamism and Skill-Biased Technical Change"
 authors: ["Hannah Rubinton"]
 date: 2025-08-15T20:18:55-04:00
 doi: "https://doi.org/10.1093/restud/rdaf063"
@@ -16,7 +16,7 @@ publishDate: 2025-08-15T20:18:55-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Review of Economic Studies"
 publication_short: ""
 
 abstract: "This paper shows that the growing disparities between big and small cities in the U.S. since 1980 can be explained by firms endogenously responding to a skill-biased technology shock. With the introduction of a new skill-biased technology that is high fixed cost but low marginal cost, firms endogenously adopt more in big cities, cities that offer abundant amenities for highskilled workers, and cities that are more productive in using high-skilled labor. In cities with more adoption, small and unproductive firms are more likely to exit the market, increasing the equilibrium rate of turnover or business dynamism-a selection effect similar to Melitz (2003). Differences in technology adoption and selection account for three key components of the growing regional disparities, known as the Great Divergence: (1) big cities saw a larger increase in the relative wages and supply of skilled workers, (2) big cities saw a smaller decline in business dynamism, and (3) firms in big cities invest more intensively in information and communication technology (ICT)."
@@ -25,8 +25,8 @@ abstract: "This paper shows that the growing disparities between big and small c
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["publications"]
+categories: ["publications"]
 featured: false
 
 # Custom links (optional).
