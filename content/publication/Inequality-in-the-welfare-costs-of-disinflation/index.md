@@ -33,7 +33,7 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
+links:
  - name: Old version
    url: files/mpinequality.pdf
    icon_pack: fas
