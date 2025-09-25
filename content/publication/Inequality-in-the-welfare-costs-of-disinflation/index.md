@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Uneven Welfare Costs of the Volcker Disinflation (R&R JPE-Macro)"
-authors: ["Ben Pugsley","Hannah Rubinton"]
+authors: ["Alexander Houtz","Ben Pugsley","Hannah Rubinton"]
 date: 2023-04-11T20:18:55-04:00
 doi: ""
 
@@ -33,13 +33,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Old version
+   url: files/mpinequality.pdf
+   icon_pack: fas
+   icon: file-pdf
 
-url_pdf: "files/mpinequality.pdf"
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
