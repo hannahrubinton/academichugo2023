@@ -37,7 +37,7 @@ links:
  - name: Old version
    url: files/mpinequality.pdf
    icon_pack: fas
-   icon: file-pdf
+   # icon: file-pdf
 
 url_pdf: 
 url_code:
