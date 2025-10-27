@@ -33,13 +33,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: Old version
-   url: files/mpinequality.pdf
-   icon_pack: fas
-   # icon: file-pdf
+# links:
+#  - name: Old version
+#    url: files/mpinequality.pdf
+#    icon_pack: fas
+#    # icon: file-pdf
 
-url_pdf: 
+url_pdf: "files/mpinequality.pdf"
 url_code:
 url_dataset:
 url_poster:
