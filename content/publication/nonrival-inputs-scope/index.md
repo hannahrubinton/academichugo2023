@@ -3,7 +3,7 @@
 
 title: "The Adoption of Non-Rival Inputs and Firm Scope"
 authors: ["Xian Jiang","Hannah Rubinton"]
-date: 2025-09-01T20:18:55-04:00
+date: 2025-12-01T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/JiangRubinton_Sept2025.pdf"
+url_pdf: "files/JiangRubinton_NonRival.pdf"
 url_code:
 url_dataset:
 url_poster:
