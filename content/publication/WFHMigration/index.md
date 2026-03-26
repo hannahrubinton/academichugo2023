@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Work from Home and Interstate Migration"
+title: "Work from Home and Long-Distance Migration"
 authors: ["Alex Bick","Adam Blandin","Karel Mertens","Hannah Rubinton"]
 date: 2024-06-16T20:18:55-04:00
 doi: ""
