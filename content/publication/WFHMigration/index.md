@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Work from Home and Long-Distance Migration"
+title: "Work from Home and Migration"
 authors: ["Alex Bick","Adam Blandin","Karel Mertens","Hannah Rubinton"]
-date: 2024-06-16T20:18:55-04:00
+date: 2026-06-25T20:18:55-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-12T20:18:55-04:00
+publishDate: 2026-06-25T20:18:55-04:00
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 
 
-abstract: "Interstate migration by working-age adults in the US declined substantially during the Great Recession and remained subdued through 2019. We document that interstate migration rose sharply following the 2020 Covid-19 outbreak, nearly recovering to pre-Great recession levels, and provide evidence that this reversal was primarily driven by the rise in work from home (WFH). Before the pandemic, interstate migration by WFH workers was consistently 50 percent higher than for commuters. Since the Covid-19 outbreak, this migration gap persisted while the WFH share tripled. Using quasi-panel data and plausibly exogenous changes in employer WFH policies, we address concerns about omitted variables or reverse causality and conclude that access to WFH induces greater interstate migration. An aggregate accounting exercise suggests that over half of the rise in interstate migration since 2019 can be accounted for by the rise in the WFH share.  Moreover, both actual WFH and pre-pandemic WFH potential, based on occupation shares, can account for a sizable share of cross-state variation in migration."
+abstract: "We study how full-time work from home (WFH) affects migration and economic activity across cities. Using ACS and novel survey data, we show WFH workers migrate 40--50 percent more than comparable commuters, commuters who switch to WFH migrate more, plausibly exogenous WFH expansions raise migration, and WFH workers migrate to lower-cost cities than commuters. The post-Covid expansion in WFH coincided with a large increase in migration; WFH accounts for half of this increase and much of the cross-city variation in migration changes. Recently, WFH has stabilized at twice its pre-Covid rate. We study the long-run implications of this shift in a dynamic spatial equilibrium model of remote work, costly migration, and job search. Expanded WFH raises migration by shifting workers into more mobile remote jobs, reallocating people and tax revenue out of expensive cities and narrowing rent differentials. Welfare gains are sizable but concentrated among remote-capable workers in commuting jobs just before the shock, especially those in large cities. A higher WFH share also shifts more of the burden of local shocks onto commuters."
 
 
 # Summary. An optional shortened abstract.
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://real.stlouisfed.org.s3.amazonaws.com/wp/2024/2024-012.pdf"
+url_pdf: "files/WFH.pdf"
 url_code:
 url_dataset:
 url_poster:
