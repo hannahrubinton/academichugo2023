@@ -3,11 +3,11 @@
 
 title: "Work from Home and Migration"
 authors: ["Alex Bick","Adam Blandin","Karel Mertens","Hannah Rubinton"]
-date: 2026-06-25T20:18:55-04:00
+date: 2026-06-25T00:00:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-06-25T20:18:55-04:00
+publishDate: 2026-06-25T00:00:00-05:00
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
