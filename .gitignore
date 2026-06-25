@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+website_and_cv.code-workspace
 
 # Hugo
 resources/
